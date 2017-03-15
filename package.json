@@ -1,0 +1,28 @@
+{
+  "name": "day_3_andelabs",
+  "version": "1.0.0",
+  "description": "Day 3 home session tasks; binarySearch, missingNumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomipaul/day_3_andelabs.git"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "missing",
+    "number"
+  ],
+  "author": "Oluwatomi Paul Akande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomipaul/day_3_andelabs/issues"
+  },
+  "homepage": "https://github.com/tomipaul/day_3_andelabs#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
